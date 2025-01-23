@@ -24,8 +24,8 @@ Certifique-se de ter instalado:
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 
-📄 Licença
+### 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo.
 
-🤝 Agradecimentos
+### 🤝 Agradecimentos
 Obrigado ao [DevClub](https://www.devclub.com.br) pelo excelente conteúdo que serviu como base para este projeto.
